@@ -1,3 +1,3 @@
-from .camera import *
+from .my_cam import *
 from .dataset_download import *
-from .train_model_face_detection import *
+from .face_detection_model import *

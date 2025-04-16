@@ -5,7 +5,7 @@ cam = cv2.VideoCapture(0)
 cam.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)
 cam.set(cv2.CAP_PROP_FRAME_HEIGHT, 1080)
 
-window_name = 'SemanticAnalyzer'
+window_name = 'Semantic_Analyzer'
 
 
 def run_cam():
